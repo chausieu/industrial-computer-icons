@@ -1,0 +1,766 @@
+@font-face {
+  font-family: 'industrial-computer-icons';
+  src:
+    url('fonts/industrial-computer-icons.ttf?gxoo8e') format('truetype'),
+    url('fonts/industrial-computer-icons.woff?gxoo8e') format('woff'),
+    url('fonts/industrial-computer-icons.svg?gxoo8e#industrial-computer-icons') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="pi-"], [class*=" pi-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'industrial-computer-icons' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.pi-ai-inteliigent:before {
+  content: "\e900";
+}
+.pi-ai-training .path1:before {
+  content: "\e901";
+  color: rgb(46, 46, 46);
+}
+.pi-ai-training .path2:before {
+  content: "\e902";
+  margin-left: -1em;
+  color: rgb(46, 46, 46);
+}
+.pi-ai-training .path3:before {
+  content: "\e903";
+  margin-left: -1em;
+  color: rgb(46, 46, 46);
+}
+.pi-ai-training .path4:before {
+  content: "\e904";
+  margin-left: -1em;
+  color: rgb(46, 46, 46);
+}
+.pi-ai-training .path5:before {
+  content: "\e905";
+  margin-left: -1em;
+  color: rgb(46, 46, 46);
+}
+.pi-ai-training .path6:before {
+  content: "\e906";
+  margin-left: -1em;
+  color: rgb(46, 46, 46);
+}
+.pi-ai-training .path7:before {
+  content: "\e907";
+  margin-left: -1em;
+  color: rgb(46, 46, 46);
+}
+.pi-ai-training .path8:before {
+  content: "\e908";
+  margin-left: -1em;
+  color: rgb(46, 46, 46);
+}
+.pi-ai-training .path9:before {
+  content: "\e909";
+  margin-left: -1em;
+  color: rgb(46, 46, 46);
+}
+.pi-ai-training .path10:before {
+  content: "\e90a";
+  margin-left: -1em;
+  color: rgb(46, 46, 46);
+}
+.pi-ai-training .path11:before {
+  content: "\e90b";
+  margin-left: -1em;
+  color: rgb(46, 46, 46);
+}
+.pi-ai-training .path12:before {
+  content: "\e90c";
+  margin-left: -1em;
+  color: rgb(46, 46, 46);
+}
+.pi-ai-training .path13:before {
+  content: "\e90d";
+  margin-left: -1em;
+  color: rgb(46, 46, 46);
+}
+.pi-ai-training .path14:before {
+  content: "\e90e";
+  margin-left: -1em;
+  color: rgb(46, 46, 46);
+}
+.pi-ai-training .path15:before {
+  content: "\e90f";
+  margin-left: -1em;
+  color: rgb(46, 46, 46);
+}
+.pi-ai-training .path16:before {
+  content: "\e910";
+  margin-left: -1em;
+  color: rgb(46, 46, 46);
+}
+.pi-ai-training .path17:before {
+  content: "\e911";
+  margin-left: -1em;
+  color: rgb(46, 46, 46);
+}
+.pi-ai-training .path18:before {
+  content: "\e912";
+  margin-left: -1em;
+  color: rgb(46, 46, 46);
+}
+.pi-ai-training .path19:before {
+  content: "\e913";
+  margin-left: -1em;
+  color: rgb(46, 46, 46);
+}
+.pi-ai-training .path20:before {
+  content: "\e914";
+  margin-left: -1em;
+  color: rgb(46, 46, 46);
+}
+.pi-ai-training .path21:before {
+  content: "\e915";
+  margin-left: -1em;
+  color: rgb(46, 46, 46);
+}
+.pi-ai-training .path22:before {
+  content: "\e916";
+  margin-left: -1em;
+  color: rgb(46, 46, 46);
+}
+.pi-ai-training .path23:before {
+  content: "\e917";
+  margin-left: -1em;
+  color: rgb(46, 46, 46);
+}
+.pi-ai-training .path24:before {
+  content: "\e918";
+  margin-left: -1em;
+  color: rgb(46, 46, 46);
+}
+.pi-ai-training .path25:before {
+  content: "\e919";
+  margin-left: -1em;
+  color: rgb(46, 46, 46);
+}
+.pi-ai-training .path26:before {
+  content: "\e91a";
+  margin-left: -1em;
+  color: rgb(46, 46, 46);
+}
+.pi-ai-training .path27:before {
+  content: "\e91b";
+  margin-left: -1em;
+  color: rgb(255, 255, 255);
+}
+.pi-ai-training .path28:before {
+  content: "\e91c";
+  margin-left: -1em;
+  color: rgb(255, 255, 255);
+}
+.pi-ai-training .path29:before {
+  content: "\e91d";
+  margin-left: -1em;
+  color: rgb(255, 255, 255);
+}
+.pi-ai-training .path30:before {
+  content: "\e91e";
+  margin-left: -1em;
+  color: rgb(255, 255, 255);
+}
+.pi-ai-training .path31:before {
+  content: "\e91f";
+  margin-left: -1em;
+  color: rgb(255, 255, 255);
+}
+.pi-analitycs:before {
+  content: "\e920";
+}
+.pi-anti-corrosion:before {
+  content: "\e921";
+}
+.pi-augmented-reality:before {
+  content: "\e922";
+}
+.pi-augmented-reality-1:before {
+  content: "\e923";
+}
+.pi-automation:before {
+  content: "\e924";
+}
+.pi-autonomous-robot:before {
+  content: "\e925";
+}
+.pi-badge:before {
+  content: "\e926";
+}
+.pi-badge-1:before {
+  content: "\e927";
+}
+.pi-barcode:before {
+  content: "\e928";
+}
+.pi-big-data:before {
+  content: "\e929";
+}
+.pi-big-data-1:before {
+  content: "\e92a";
+}
+.pi-chemical:before {
+  content: "\e92b";
+}
+.pi-cleanroom:before {
+  content: "\e92c";
+}
+.pi-cloud-computing:before {
+  content: "\e92d";
+}
+.pi-cloud-computing-1:before {
+  content: "\e92e";
+}
+.pi-communication:before {
+  content: "\e92f";
+}
+.pi-complexity:before {
+  content: "\e930";
+}
+.pi-compute-process:before {
+  content: "\e931";
+}
+.pi-computing:before {
+  content: "\e932";
+}
+.pi-cost-saving:before {
+  content: "\e933";
+}
+.pi-cow:before {
+  content: "\e934";
+}
+.pi-cpu:before {
+  content: "\e935";
+}
+.pi-cpu-fan:before {
+  content: "\e936";
+}
+.pi-cyber-security:before {
+  content: "\e937";
+}
+.pi-database:before {
+  content: "\e938";
+}
+.pi-data-bus:before {
+  content: "\e939";
+}
+.pi-data-management:before {
+  content: "\e93a";
+}
+.pi-embedded-system:before {
+  content: "\e93b";
+}
+.pi-factory:before {
+  content: "\e93c";
+}
+.pi-factory-automation:before {
+  content: "\e93d";
+}
+.pi-fan:before {
+  content: "\e93e";
+}
+.pi-fire-shield:before {
+  content: "\e93f";
+}
+.pi-flexibility:before {
+  content: "\e940";
+}
+.pi-floppy-disk:before {
+  content: "\e941";
+}
+.pi-food-n-beverage:before {
+  content: "\e942";
+}
+.pi-framework:before {
+  content: "\e943";
+}
+.pi-gpu:before {
+  content: "\e944";
+}
+.pi-gpu-card:before {
+  content: "\e945";
+}
+.pi-green-shield:before {
+  content: "\e946";
+}
+.pi-hardware:before {
+  content: "\e947";
+}
+.pi-hdd-drive:before {
+  content: "\e948";
+}
+.pi-innovation:before {
+  content: "\e949";
+}
+.pi-innovative:before {
+  content: "\e94a";
+}
+.pi-iot .path1:before {
+  content: "\e94b";
+  color: rgb(46, 46, 46);
+}
+.pi-iot .path2:before {
+  content: "\e94c";
+  margin-left: -1em;
+  color: rgb(252, 253, 255);
+}
+.pi-iot .path3:before {
+  content: "\e94d";
+  margin-left: -1em;
+  color: rgb(46, 46, 46);
+}
+.pi-iot .path4:before {
+  content: "\e94e";
+  margin-left: -1em;
+  color: rgb(252, 253, 255);
+}
+.pi-iot .path5:before {
+  content: "\e94f";
+  margin-left: -1em;
+  color: rgb(46, 46, 46);
+}
+.pi-iot .path6:before {
+  content: "\e950";
+  margin-left: -1em;
+  color: rgb(252, 253, 255);
+}
+.pi-iot .path7:before {
+  content: "\e951";
+  margin-left: -1em;
+  color: rgb(46, 46, 46);
+}
+.pi-iot .path8:before {
+  content: "\e952";
+  margin-left: -1em;
+  color: rgb(252, 253, 255);
+}
+.pi-iot .path9:before {
+  content: "\e953";
+  margin-left: -1em;
+  color: rgb(46, 46, 46);
+}
+.pi-iot .path10:before {
+  content: "\e954";
+  margin-left: -1em;
+  color: rgb(252, 253, 255);
+}
+.pi-iot .path11:before {
+  content: "\e955";
+  margin-left: -1em;
+  color: rgb(46, 46, 46);
+}
+.pi-iot .path12:before {
+  content: "\e956";
+  margin-left: -1em;
+  color: rgb(252, 253, 255);
+}
+.pi-iot .path13:before {
+  content: "\e957";
+  margin-left: -1em;
+  color: rgb(46, 46, 46);
+}
+.pi-iot .path14:before {
+  content: "\e958";
+  margin-left: -1em;
+  color: rgb(46, 46, 46);
+}
+.pi-iot .path15:before {
+  content: "\e959";
+  margin-left: -1em;
+  color: rgb(46, 46, 46);
+}
+.pi-iot .path16:before {
+  content: "\e95a";
+  margin-left: -1em;
+  color: rgb(46, 46, 46);
+}
+.pi-kiosk-retail:before {
+  content: "\e95b";
+}
+.pi-lock-n-shield:before {
+  content: "\e95c";
+}
+.pi-machine-learning:before {
+  content: "\e95d";
+}
+.pi-memory-card:before {
+  content: "\e95e";
+}
+.pi-model:before {
+  content: "\e95f";
+}
+.pi-model-printing:before {
+  content: "\e960";
+}
+.pi-modules:before {
+  content: "\e961";
+}
+.pi-motherboard:before {
+  content: "\e962";
+}
+.pi-mountain:before {
+  content: "\e963";
+}
+.pi-plants:before {
+  content: "\e964";
+}
+.pi-plug-in-power:before {
+  content: "\e965";
+}
+.pi-port-com:before {
+  content: "\e966";
+}
+.pi-port-dio:before {
+  content: "\e967";
+}
+.pi-port-usb:before {
+  content: "\e968";
+}
+.pi-power-shield:before {
+  content: "\e969";
+}
+.pi-power-switch:before {
+  content: "\e96a";
+}
+.pi-process-flow:before {
+  content: "\e96b";
+}
+.pi-production-line:before {
+  content: "\e96c";
+}
+.pi-production-process:before {
+  content: "\e96d";
+}
+.pi-programming-language:before {
+  content: "\e96e";
+}
+.pi-protected-plug-in:before {
+  content: "\e96f";
+}
+.pi-quality-assurance:before {
+  content: "\e970";
+}
+.pi-reporting:before {
+  content: "\e971";
+}
+.pi-RFID-sensor:before {
+  content: "\e972";
+}
+.pi-robot:before {
+  content: "\e973";
+}
+.pi-robot-arm:before {
+  content: "\e974";
+}
+.pi-robot-assistant:before {
+  content: "\e975";
+}
+.pi-scalability:before {
+  content: "\e976";
+}
+.pi-schedule:before {
+  content: "\e977";
+}
+.pi-sd-card:before {
+  content: "\e978";
+}
+.pi-security:before {
+  content: "\e979";
+}
+.pi-shrink:before {
+  content: "\e97a";
+}
+.pi-smart-car:before {
+  content: "\e97b";
+}
+.pi-smart-communication .path1:before {
+  content: "\e97c";
+  color: rgb(46, 46, 46);
+}
+.pi-smart-communication .path2:before {
+  content: "\e97d";
+  margin-left: -1em;
+  color: rgb(46, 46, 46);
+}
+.pi-smart-communication .path3:before {
+  content: "\e97e";
+  margin-left: -1em;
+  color: rgb(46, 46, 46);
+}
+.pi-smart-communication .path4:before {
+  content: "\e97f";
+  margin-left: -1em;
+  color: rgb(46, 46, 46);
+}
+.pi-smart-communication .path5:before {
+  content: "\e980";
+  margin-left: -1em;
+  color: rgb(46, 46, 46);
+}
+.pi-smart-communication .path6:before {
+  content: "\e981";
+  margin-left: -1em;
+  color: rgb(46, 46, 46);
+}
+.pi-smart-communication .path7:before {
+  content: "\e982";
+  margin-left: -1em;
+  color: rgb(46, 46, 46);
+}
+.pi-smart-communication .path8:before {
+  content: "\e983";
+  margin-left: -1em;
+  color: rgb(46, 46, 46);
+}
+.pi-smart-communication .path9:before {
+  content: "\e984";
+  margin-left: -1em;
+  color: rgb(46, 46, 46);
+}
+.pi-smart-communication .path10:before {
+  content: "\e985";
+  margin-left: -1em;
+  color: rgb(46, 46, 46);
+}
+.pi-smart-communication .path11:before {
+  content: "\e986";
+  margin-left: -1em;
+  color: rgb(46, 46, 46);
+}
+.pi-smart-communication .path12:before {
+  content: "\e987";
+  margin-left: -1em;
+  color: rgb(61, 68, 81);
+}
+.pi-smart-communication .path13:before {
+  content: "\e988";
+  margin-left: -1em;
+  color: rgb(46, 46, 46);
+}
+.pi-smart-communication .path14:before {
+  content: "\e989";
+  margin-left: -1em;
+  color: rgb(46, 46, 46);
+}
+.pi-smart-communication .path15:before {
+  content: "\e98a";
+  margin-left: -1em;
+  color: rgb(46, 46, 46);
+}
+.pi-smart-communication .path16:before {
+  content: "\e98b";
+  margin-left: -1em;
+  color: rgb(243, 243, 243);
+}
+.pi-smart-communication .path17:before {
+  content: "\e98c";
+  margin-left: -1em;
+  color: rgb(46, 46, 46);
+}
+.pi-smart-communication .path18:before {
+  content: "\e98d";
+  margin-left: -1em;
+  color: rgb(243, 243, 243);
+}
+.pi-smart-communication .path19:before {
+  content: "\e98e";
+  margin-left: -1em;
+  color: rgb(46, 46, 46);
+}
+.pi-smart-compute:before {
+  content: "\e98f";
+}
+.pi-smart-control:before {
+  content: "\e990";
+}
+.pi-smart-detection:before {
+  content: "\e991";
+}
+.pi-smart-factory:before {
+  content: "\e992";
+}
+.pi-smart-industrial:before {
+  content: "\e993";
+}
+.pi-smart-logistic .path1:before {
+  content: "\e994";
+  color: rgb(46, 46, 46);
+}
+.pi-smart-logistic .path2:before {
+  content: "\e995";
+  margin-left: -1em;
+  color: rgb(46, 46, 46);
+}
+.pi-smart-logistic .path3:before {
+  content: "\e996";
+  margin-left: -1em;
+  color: rgb(46, 46, 46);
+}
+.pi-smart-logistic .path4:before {
+  content: "\e997";
+  margin-left: -1em;
+  color: rgb(46, 46, 46);
+}
+.pi-smart-logistic .path5:before {
+  content: "\e998";
+  margin-left: -1em;
+  color: rgb(46, 46, 46);
+}
+.pi-smart-logistic .path6:before {
+  content: "\e999";
+  margin-left: -1em;
+  color: rgb(46, 46, 46);
+}
+.pi-smart-logistic .path7:before {
+  content: "\e99a";
+  margin-left: -1em;
+  color: rgb(61, 68, 81);
+}
+.pi-smart-logistic .path8:before {
+  content: "\e99b";
+  margin-left: -1em;
+  color: rgb(46, 46, 46);
+}
+.pi-smart-logistic .path9:before {
+  content: "\e99c";
+  margin-left: -1em;
+  color: rgb(46, 46, 46);
+}
+.pi-smart-logistic .path10:before {
+  content: "\e99d";
+  margin-left: -1em;
+  color: rgb(46, 46, 46);
+}
+.pi-smart-logistic .path11:before {
+  content: "\e99e";
+  margin-left: -1em;
+  color: rgb(46, 46, 46);
+}
+.pi-smart-logistic .path12:before {
+  content: "\e99f";
+  margin-left: -1em;
+  color: rgb(46, 46, 46);
+}
+.pi-smart-logistic .path13:before {
+  content: "\e9a0";
+  margin-left: -1em;
+  color: rgb(46, 46, 46);
+}
+.pi-smart-logistic .path14:before {
+  content: "\e9a1";
+  margin-left: -1em;
+  color: rgb(46, 46, 46);
+}
+.pi-social-web:before {
+  content: "\e9a2";
+}
+.pi-speaker:before {
+  content: "\e9a3";
+}
+.pi-speech-regconition:before {
+  content: "\e9a4";
+}
+.pi-speed-meter:before {
+  content: "\e9a5";
+}
+.pi-ssd-drive:before {
+  content: "\e9a6";
+}
+.pi-surveillance:before {
+  content: "\e9a7";
+}
+.pi-system-integration .path1:before {
+  content: "\e9a8";
+  color: rgb(46, 46, 46);
+}
+.pi-system-integration .path2:before {
+  content: "\e9a9";
+  margin-left: -1em;
+  color: rgb(46, 46, 46);
+}
+.pi-system-integration .path3:before {
+  content: "\e9aa";
+  margin-left: -1em;
+  color: rgb(46, 46, 46);
+}
+.pi-system-integration .path4:before {
+  content: "\e9ab";
+  margin-left: -1em;
+  color: rgb(255, 255, 255);
+}
+.pi-system-integration .path5:before {
+  content: "\e9ac";
+  margin-left: -1em;
+  color: rgb(46, 46, 46);
+}
+.pi-system-integration .path6:before {
+  content: "\e9ad";
+  margin-left: -1em;
+  color: rgb(46, 46, 46);
+}
+.pi-system-integration .path7:before {
+  content: "\e9ae";
+  margin-left: -1em;
+  color: rgb(61, 68, 81);
+}
+.pi-system-integration .path8:before {
+  content: "\e9af";
+  margin-left: -1em;
+  color: rgb(46, 46, 46);
+}
+.pi-system-integration .path9:before {
+  content: "\e9b0";
+  margin-left: -1em;
+  color: rgb(46, 46, 46);
+}
+.pi-target:before {
+  content: "\e9b1";
+}
+.pi-task-list:before {
+  content: "\e9b2";
+}
+.pi-technical-standard:before {
+  content: "\e9b3";
+}
+.pi-temperature:before {
+  content: "\e9b4";
+}
+.pi-thunder-bolt:before {
+  content: "\e9b5";
+}
+.pi-toolset:before {
+  content: "\e9b6";
+}
+.pi-touch-screen:before {
+  content: "\e9b7";
+}
+.pi-usb-drive:before {
+  content: "\e9b8";
+}
+.pi-value-chain:before {
+  content: "\e9b9";
+}
+.pi-virtual-reality:before {
+  content: "\e9ba";
+}
+.pi-virtual-reality-1:before {
+  content: "\e9bb";
+}
+.pi-wifi:before {
+  content: "\e9bc";
+}
