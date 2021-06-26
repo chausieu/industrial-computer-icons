@@ -1,9 +1,9 @@
 @font-face {
   font-family: 'industrial-computer-icons';
   src:
-    url('fonts/industrial-computer-icons.ttf?gxoo8e') format('truetype'),
-    url('fonts/industrial-computer-icons.woff?gxoo8e') format('woff'),
-    url('fonts/industrial-computer-icons.svg?gxoo8e#industrial-computer-icons') format('svg');
+    url('https://cdn.jsdelivr.net/gh/chausieu/industrial-computer-icons/fonts/industrial-computer-icons.ttf?gxoo8e') format('truetype'),
+    url('https://cdn.jsdelivr.net/gh/chausieu/industrial-computer-icons/fonts/industrial-computer-icons.woff?gxoo8e') format('woff'),
+    url('https://cdn.jsdelivr.net/gh/chausieu/industrial-computer-icons/fonts/industrial-computer-icons.svg?gxoo8e#industrial-computer-icons') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
