@@ -1,9 +1,9 @@
 @font-face {
-  font-family: 'industrial-computer-icons';
+  font-family: 'Premio';
   src:
-    url('https://cdn.jsdelivr.net/gh/chausieu/industrial-computer-icons/fonts/industrial-computer-icons.ttf?gxoo8e') format('truetype'),
-    url('https://cdn.jsdelivr.net/gh/chausieu/industrial-computer-icons/fonts/industrial-computer-icons.woff?gxoo8e') format('woff'),
-    url('https://cdn.jsdelivr.net/gh/chausieu/industrial-computer-icons/fonts/industrial-computer-icons.svg?gxoo8e#industrial-computer-icons') format('svg');
+    url('fonts/industrial-computer-icons.ttf') format('truetype'),
+    url('fonts/industrial-computer-icons.woff') format('woff'),
+    url('fonts/industrial-computer-icons.svg') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -11,9 +11,8 @@
 
 [class^="pi-"], [class*=" pi-"] {
   /* use !important to prevent issues with browser extensions that change fonts */
-  font-family: 'industrial-computer-icons' !important;
+  font-family: 'Premio' !important;
   speak: never;
-  font-size:  6rem;
   font-style: normal;
   font-weight: normal;
   font-variant: normal;
@@ -25,6 +24,418 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+.pi-ambulance .path1:before {
+  content: "\e9f6";
+  color: rgb(255, 255, 255);
+}
+.pi-ambulance .path2:before {
+  content: "\e9f7";
+  margin-left: -1.498046875em;
+  color: rgb(51, 51, 51);
+}
+.pi-ambulance .path3:before {
+  content: "\e9f8";
+  margin-left: -1.498046875em;
+  color: rgb(255, 255, 255);
+}
+.pi-ambulance .path4:before {
+  content: "\e9f9";
+  margin-left: -1.498046875em;
+  color: rgb(51, 51, 51);
+}
+.pi-ambulance .path5:before {
+  content: "\e9fa";
+  margin-left: -1.498046875em;
+  color: rgb(51, 51, 51);
+}
+.pi-ambulance .path6:before {
+  content: "\e9fb";
+  margin-left: -1.498046875em;
+  color: rgb(51, 51, 51);
+}
+.pi-ambulance .path7:before {
+  content: "\e9fc";
+  margin-left: -1.498046875em;
+  color: rgb(51, 51, 51);
+}
+.pi-ambulance .path8:before {
+  content: "\e9fd";
+  margin-left: -1.498046875em;
+  color: rgb(51, 51, 51);
+}
+.pi-ambulance .path9:before {
+  content: "\e9fe";
+  margin-left: -1.498046875em;
+  color: rgb(51, 51, 51);
+}
+.pi-ambulance .path10:before {
+  content: "\e9ff";
+  margin-left: -1.498046875em;
+  color: rgb(51, 51, 51);
+}
+.pi-ambulance .path11:before {
+  content: "\ea00";
+  margin-left: -1.498046875em;
+  color: rgb(51, 51, 51);
+}
+.pi-call-plus .path1:before {
+  content: "\ea01";
+  color: rgb(51, 51, 51);
+}
+.pi-call-plus .path2:before {
+  content: "\ea02";
+  margin-left: -0.8642578125em;
+  color: rgb(255, 255, 255);
+}
+.pi-call-plus .path3:before {
+  content: "\ea03";
+  margin-left: -0.8642578125em;
+  color: rgb(51, 51, 51);
+}
+.pi-checklist .path1:before {
+  content: "\ea04";
+  color: rgb(51, 51, 51);
+}
+.pi-checklist .path2:before {
+  content: "\ea05";
+  margin-left: -0.7138671875em;
+  color: rgb(255, 255, 255);
+}
+.pi-checklist .path3:before {
+  content: "\ea06";
+  margin-left: -0.7138671875em;
+  color: rgb(51, 51, 51);
+}
+.pi-checklist .path4:before {
+  content: "\ea07";
+  margin-left: -0.7138671875em;
+  color: rgb(51, 51, 51);
+}
+.pi-checklist .path5:before {
+  content: "\ea08";
+  margin-left: -0.7138671875em;
+  color: rgb(51, 51, 51);
+}
+.pi-checklist .path6:before {
+  content: "\ea09";
+  margin-left: -0.7138671875em;
+  color: rgb(51, 51, 51);
+}
+.pi-checklist .path7:before {
+  content: "\ea0a";
+  margin-left: -0.7138671875em;
+  color: rgb(255, 255, 255);
+}
+.pi-checklist .path8:before {
+  content: "\ea0b";
+  margin-left: -0.7138671875em;
+  color: rgb(51, 51, 51);
+}
+.pi-checklist .path9:before {
+  content: "\ea0c";
+  margin-left: -0.7138671875em;
+  color: rgb(51, 51, 51);
+}
+.pi-checklist .path10:before {
+  content: "\ea0d";
+  margin-left: -0.7138671875em;
+  color: rgb(51, 51, 51);
+}
+.pi-checklist .path11:before {
+  content: "\ea0e";
+  margin-left: -0.7138671875em;
+  color: rgb(51, 51, 51);
+}
+.pi-doctor:before {
+  content: "\ea0f";
+}
+.pi-healthcare:before {
+  content: "\ea10";
+}
+.pi-heart-beat:before {
+  content: "\ea11";
+}
+.pi-heart-care:before {
+  content: "\ea12";
+}
+.pi-heartplus .path1:before {
+  content: "\ea13";
+  color: rgb(51, 51, 51);
+}
+.pi-heartplus .path2:before {
+  content: "\ea14";
+  margin-left: -1.240234375em;
+  color: rgb(255, 255, 255);
+}
+.pi-heartplus .path3:before {
+  content: "\ea15";
+  margin-left: -1.240234375em;
+  color: rgb(51, 51, 51);
+}
+.pi-heartplus .path4:before {
+  content: "\ea16";
+  margin-left: -1.240234375em;
+  color: rgb(255, 255, 255);
+}
+.pi-heartplus .path5:before {
+  content: "\ea17";
+  margin-left: -1.240234375em;
+  color: rgb(51, 51, 51);
+}
+.pi-hospital .path1:before {
+  content: "\ea18";
+  color: rgb(51, 51, 51);
+}
+.pi-hospital .path2:before {
+  content: "\ea19";
+  margin-left: -1.123046875em;
+  color: rgb(51, 51, 51);
+}
+.pi-hospital .path3:before {
+  content: "\ea1a";
+  margin-left: -1.123046875em;
+  color: rgb(51, 51, 51);
+}
+.pi-hospital .path4:before {
+  content: "\ea1b";
+  margin-left: -1.123046875em;
+  color: rgb(51, 51, 51);
+}
+.pi-hospital .path5:before {
+  content: "\ea1c";
+  margin-left: -1.123046875em;
+  color: rgb(51, 51, 51);
+}
+.pi-hospital .path6:before {
+  content: "\ea1d";
+  margin-left: -1.123046875em;
+  color: rgb(51, 51, 51);
+}
+.pi-hospital .path7:before {
+  content: "\ea1e";
+  margin-left: -1.123046875em;
+  color: rgb(51, 51, 51);
+}
+.pi-hospital .path8:before {
+  content: "\ea1f";
+  margin-left: -1.123046875em;
+  color: rgb(51, 51, 51);
+}
+.pi-hospital .path9:before {
+  content: "\ea20";
+  margin-left: -1.123046875em;
+  color: rgb(51, 51, 51);
+}
+.pi-hospital .path10:before {
+  content: "\ea21";
+  margin-left: -1.123046875em;
+  color: rgb(51, 51, 51);
+}
+.pi-hospital .path11:before {
+  content: "\ea22";
+  margin-left: -1.123046875em;
+  color: rgb(255, 255, 255);
+}
+.pi-hospital .path12:before {
+  content: "\ea23";
+  margin-left: -1.123046875em;
+  color: rgb(51, 51, 51);
+}
+.pi-hospital .path13:before {
+  content: "\ea24";
+  margin-left: -1.123046875em;
+  color: rgb(51, 51, 51);
+}
+.pi-hospital-bed:before {
+  content: "\ea25";
+}
+.pi-hospital-icon:before {
+  content: "\ea26";
+}
+.pi-liquid:before {
+  content: "\ea27";
+}
+.pi-medicine:before {
+  content: "\ea28";
+}
+.pi-medicine-case:before {
+  content: "\ea29";
+}
+.pi-monitor-beat:before {
+  content: "\ea2a";
+}
+.pi-nurse .path1:before {
+  content: "\ea2b";
+  color: rgb(51, 51, 51);
+}
+.pi-nurse .path2:before {
+  content: "\ea2c";
+  margin-left: -0.693359375em;
+  color: rgb(255, 255, 255);
+}
+.pi-nurse .path3:before {
+  content: "\ea2d";
+  margin-left: -0.693359375em;
+  color: rgb(51, 51, 51);
+}
+.pi-nurse .path4:before {
+  content: "\ea2e";
+  margin-left: -0.693359375em;
+  color: rgb(51, 51, 51);
+}
+.pi-nurse .path5:before {
+  content: "\ea2f";
+  margin-left: -0.693359375em;
+  color: rgb(51, 51, 51);
+}
+.pi-nurse .path6:before {
+  content: "\ea30";
+  margin-left: -0.693359375em;
+  color: rgb(51, 51, 51);
+}
+.pi-nurse .path7:before {
+  content: "\ea31";
+  margin-left: -0.693359375em;
+  color: rgb(51, 51, 51);
+}
+.pi-nurse .path8:before {
+  content: "\ea32";
+  margin-left: -0.693359375em;
+  color: rgb(51, 51, 51);
+}
+.pi-nurse .path9:before {
+  content: "\ea33";
+  margin-left: -0.693359375em;
+  color: rgb(51, 51, 51);
+}
+.pi-nurse-icon:before {
+  content: "\ea34";
+}
+.pi-prescription:before {
+  content: "\ea35";
+}
+.pi-ribbon:before {
+  content: "\ea36";
+}
+.pi-stethoscope .path1:before {
+  content: "\ea37";
+  color: rgb(51, 51, 51);
+}
+.pi-stethoscope .path2:before {
+  content: "\ea38";
+  margin-left: -0.802734375em;
+  color: rgb(51, 51, 51);
+}
+.pi-stethoscope .path3:before {
+  content: "\ea39";
+  margin-left: -0.802734375em;
+  color: rgb(51, 51, 51);
+}
+.pi-stethoscope .path4:before {
+  content: "\ea3a";
+  margin-left: -0.802734375em;
+  color: rgb(51, 51, 51);
+}
+.pi-stethoscope .path5:before {
+  content: "\ea3b";
+  margin-left: -0.802734375em;
+  color: rgb(51, 51, 51);
+}
+.pi-stethoscope .path6:before {
+  content: "\ea3c";
+  margin-left: -0.802734375em;
+  color: rgb(255, 255, 255);
+}
+.pi-stethoscope .path7:before {
+  content: "\ea3d";
+  margin-left: -0.802734375em;
+  color: rgb(51, 51, 51);
+}
+.pi-stethoscope .path8:before {
+  content: "\ea3e";
+  margin-left: -0.802734375em;
+  color: rgb(51, 51, 51);
+}
+.pi-atomicnergy:before {
+  content: "\ea3f";
+  color: #505050;
+}
+.pi-battery:before {
+  content: "\ea40";
+  color: #505050;
+}
+.pi-cycle-greenergy:before {
+  content: "\ea41";
+  color: #505050;
+}
+.pi-electricity:before {
+  content: "\ea42";
+  color: #505050;
+}
+.pi-energy-recycle:before {
+  content: "\ea43";
+  color: #505050;
+}
+.pi-factonergy:before {
+  content: "\ea44";
+  color: #505050;
+}
+.pi-fire:before {
+  content: "\ea45";
+  color: #505050;
+}
+.pi-gas-station:before {
+  content: "\ea46";
+  color: #505050;
+}
+.pi-greenergy:before {
+  content: "\ea47";
+  color: #505050;
+}
+.pi-hydronergy:before {
+  content: "\ea48";
+  color: #505050;
+}
+.pi-liquidnergy:before {
+  content: "\ea49";
+  color: #505050;
+}
+.pi-minergy:before {
+  content: "\ea4a";
+  color: #505050;
+}
+.pi-naturalgasnergy:before {
+  content: "\ea4b";
+  color: #505050;
+}
+.pi-oilnergy:before {
+  content: "\ea4c";
+  color: #505050;
+}
+.pi-radioactive:before {
+  content: "\ea4d";
+  color: #505050;
+}
+.pi-steamnergy:before {
+  content: "\ea4e";
+  color: #505050;
+}
+.pi-sunergy:before {
+  content: "\ea4f";
+  color: #505050;
+}
+.pi-tempnergy:before {
+  content: "\ea50";
+  color: #505050;
+}
+.pi-trinergy:before {
+  content: "\ea51";
+  color: #505050;
+}
+.pi-windnergy:before {
+  content: "\ea52";
+  color: #505050;
+}
 .pi-ai-inteliigent:before {
   content: "\e900";
 }
@@ -73,695 +484,972 @@
   color: rgb(46, 46, 46);
 }
 .pi-ai-training .path10:before {
-  content: "\e90a";
-  margin-left: -1em;
-  color: rgb(46, 46, 46);
-}
-.pi-ai-training .path11:before {
   content: "\e90b";
   margin-left: -1em;
   color: rgb(46, 46, 46);
 }
-.pi-ai-training .path12:before {
+.pi-ai-training .path11:before {
   content: "\e90c";
   margin-left: -1em;
   color: rgb(46, 46, 46);
 }
-.pi-ai-training .path13:before {
+.pi-ai-training .path12:before {
   content: "\e90d";
   margin-left: -1em;
   color: rgb(46, 46, 46);
 }
-.pi-ai-training .path14:before {
+.pi-ai-training .path13:before {
   content: "\e90e";
   margin-left: -1em;
   color: rgb(46, 46, 46);
 }
-.pi-ai-training .path15:before {
+.pi-ai-training .path14:before {
   content: "\e90f";
   margin-left: -1em;
   color: rgb(46, 46, 46);
 }
-.pi-ai-training .path16:before {
+.pi-ai-training .path15:before {
   content: "\e910";
   margin-left: -1em;
   color: rgb(46, 46, 46);
 }
-.pi-ai-training .path17:before {
+.pi-ai-training .path16:before {
   content: "\e911";
   margin-left: -1em;
   color: rgb(46, 46, 46);
 }
-.pi-ai-training .path18:before {
+.pi-ai-training .path17:before {
   content: "\e912";
   margin-left: -1em;
   color: rgb(46, 46, 46);
 }
-.pi-ai-training .path19:before {
+.pi-ai-training .path18:before {
   content: "\e913";
   margin-left: -1em;
   color: rgb(46, 46, 46);
 }
-.pi-ai-training .path20:before {
+.pi-ai-training .path19:before {
   content: "\e914";
   margin-left: -1em;
   color: rgb(46, 46, 46);
 }
-.pi-ai-training .path21:before {
+.pi-ai-training .path20:before {
   content: "\e915";
   margin-left: -1em;
   color: rgb(46, 46, 46);
 }
-.pi-ai-training .path22:before {
+.pi-ai-training .path21:before {
   content: "\e916";
   margin-left: -1em;
   color: rgb(46, 46, 46);
 }
-.pi-ai-training .path23:before {
+.pi-ai-training .path22:before {
   content: "\e917";
   margin-left: -1em;
   color: rgb(46, 46, 46);
 }
-.pi-ai-training .path24:before {
+.pi-ai-training .path23:before {
   content: "\e918";
   margin-left: -1em;
   color: rgb(46, 46, 46);
 }
-.pi-ai-training .path25:before {
+.pi-ai-training .path24:before {
   content: "\e919";
   margin-left: -1em;
   color: rgb(46, 46, 46);
 }
-.pi-ai-training .path26:before {
+.pi-ai-training .path25:before {
   content: "\e91a";
   margin-left: -1em;
   color: rgb(46, 46, 46);
 }
-.pi-ai-training .path27:before {
+.pi-ai-training .path26:before {
   content: "\e91b";
   margin-left: -1em;
-  color: rgb(255, 255, 255);
+  color: rgb(46, 46, 46);
 }
-.pi-ai-training .path28:before {
+.pi-ai-training .path27:before {
   content: "\e91c";
   margin-left: -1em;
   color: rgb(255, 255, 255);
 }
-.pi-ai-training .path29:before {
+.pi-ai-training .path28:before {
   content: "\e91d";
   margin-left: -1em;
   color: rgb(255, 255, 255);
 }
-.pi-ai-training .path30:before {
+.pi-ai-training .path29:before {
   content: "\e91e";
   margin-left: -1em;
   color: rgb(255, 255, 255);
 }
-.pi-ai-training .path31:before {
+.pi-ai-training .path30:before {
   content: "\e91f";
   margin-left: -1em;
   color: rgb(255, 255, 255);
 }
-.pi-analitycs:before {
+.pi-ai-training .path31:before {
   content: "\e920";
+  margin-left: -1em;
+  color: rgb(255, 255, 255);
 }
-.pi-anti-corrosion:before {
+.pi-analitycs:before {
   content: "\e921";
 }
-.pi-augmented-reality:before {
+.pi-anti-corrosion:before {
   content: "\e922";
 }
-.pi-augmented-reality-1:before {
+.pi-augmented-reality:before {
   content: "\e923";
 }
-.pi-automation:before {
+.pi-augmented-reality-1:before {
   content: "\e924";
 }
-.pi-autonomous-robot:before {
+.pi-automation:before {
   content: "\e925";
 }
-.pi-badge:before {
+.pi-autonomous-robot:before {
   content: "\e926";
 }
-.pi-badge-1:before {
+.pi-badge:before {
   content: "\e927";
 }
-.pi-barcode:before {
+.pi-badge-1:before {
   content: "\e928";
 }
-.pi-big-data:before {
+.pi-barcode:before {
   content: "\e929";
 }
-.pi-big-data-1:before {
+.pi-big-data-13:before {
   content: "\e92a";
 }
-.pi-chemical:before {
+.pi-big-data-59:before {
   content: "\e92b";
 }
-.pi-cleanroom:before {
+.pi-chemical:before {
   content: "\e92c";
 }
-.pi-cloud-computing:before {
+.pi-city:before {
   content: "\e92d";
+  color: #204477;
 }
-.pi-cloud-computing-1:before {
+.pi-cleanroom:before {
   content: "\e92e";
 }
-.pi-communication:before {
+.pi-cloud-computing:before {
   content: "\e92f";
 }
-.pi-complexity:before {
+.pi-cloud-computing-1:before {
   content: "\e930";
 }
-.pi-compute-process:before {
+.pi-communication:before {
   content: "\e931";
 }
-.pi-computing:before {
+.pi-complexity:before {
   content: "\e932";
 }
-.pi-cost-saving:before {
+.pi-compute-process:before {
   content: "\e933";
 }
-.pi-cow:before {
+.pi-computing:before {
   content: "\e934";
 }
-.pi-cpu:before {
+.pi-cost-saving:before {
   content: "\e935";
 }
-.pi-cpu-fan:before {
+.pi-cow:before {
   content: "\e936";
 }
-.pi-cyber-security:before {
+.pi-cpu:before {
   content: "\e937";
 }
-.pi-database:before {
+.pi-cpu-fan:before {
   content: "\e938";
 }
-.pi-data-bus:before {
+.pi-cyber-security:before {
   content: "\e939";
 }
-.pi-data-management:before {
+.pi-database:before {
   content: "\e93a";
 }
-.pi-embedded-system:before {
+.pi-data-bus:before {
   content: "\e93b";
 }
-.pi-factory:before {
+.pi-data-management:before {
   content: "\e93c";
 }
-.pi-factory-automation:before {
+.pi-embedded-system:before {
   content: "\e93d";
 }
-.pi-fan:before {
+.pi-factory:before {
   content: "\e93e";
 }
-.pi-fire-shield:before {
+.pi-factory-automation:before {
   content: "\e93f";
 }
-.pi-flexibility:before {
+.pi-fan:before {
   content: "\e940";
 }
-.pi-floppy-disk:before {
+.pi-fire-shield:before {
   content: "\e941";
 }
-.pi-food-n-beverage:before {
+.pi-flexibility1:before {
   content: "\e942";
 }
-.pi-framework:before {
+.pi-floppy-disk:before {
   content: "\e943";
 }
-.pi-gpu:before {
+.pi-food-n-beverage:before {
   content: "\e944";
 }
-.pi-gpu-card:before {
+.pi-framework:before {
   content: "\e945";
 }
-.pi-green-shield:before {
+.pi-gpu:before {
   content: "\e946";
 }
-.pi-hardware:before {
+.pi-gpu-card:before {
   content: "\e947";
 }
-.pi-hdd-drive:before {
+.pi-green-shield:before {
   content: "\e948";
 }
-.pi-innovation:before {
+.pi-hardware:before {
   content: "\e949";
 }
-.pi-innovative:before {
+.pi-hdd-drive:before {
   content: "\e94a";
 }
-.pi-iot .path1:before {
+.pi-innovation:before {
   content: "\e94b";
+}
+.pi-innovative:before {
+  content: "\e94c";
+}
+.pi-iot .path1:before {
+  content: "\e94d";
   color: rgb(46, 46, 46);
 }
 .pi-iot .path2:before {
-  content: "\e94c";
-  margin-left: -1em;
-  color: rgb(252, 253, 255);
-}
-.pi-iot .path3:before {
-  content: "\e94d";
-  margin-left: -1em;
-  color: rgb(46, 46, 46);
-}
-.pi-iot .path4:before {
   content: "\e94e";
   margin-left: -1em;
   color: rgb(252, 253, 255);
 }
-.pi-iot .path5:before {
+.pi-iot .path3:before {
   content: "\e94f";
   margin-left: -1em;
   color: rgb(46, 46, 46);
 }
-.pi-iot .path6:before {
+.pi-iot .path4:before {
   content: "\e950";
   margin-left: -1em;
   color: rgb(252, 253, 255);
 }
-.pi-iot .path7:before {
+.pi-iot .path5:before {
   content: "\e951";
   margin-left: -1em;
   color: rgb(46, 46, 46);
 }
-.pi-iot .path8:before {
+.pi-iot .path6:before {
   content: "\e952";
   margin-left: -1em;
   color: rgb(252, 253, 255);
 }
-.pi-iot .path9:before {
+.pi-iot .path7:before {
   content: "\e953";
   margin-left: -1em;
   color: rgb(46, 46, 46);
 }
-.pi-iot .path10:before {
+.pi-iot .path8:before {
   content: "\e954";
   margin-left: -1em;
   color: rgb(252, 253, 255);
 }
-.pi-iot .path11:before {
+.pi-iot .path9:before {
   content: "\e955";
   margin-left: -1em;
   color: rgb(46, 46, 46);
 }
-.pi-iot .path12:before {
+.pi-iot .path10:before {
   content: "\e956";
   margin-left: -1em;
   color: rgb(252, 253, 255);
 }
-.pi-iot .path13:before {
+.pi-iot .path11:before {
   content: "\e957";
   margin-left: -1em;
   color: rgb(46, 46, 46);
 }
-.pi-iot .path14:before {
+.pi-iot .path12:before {
   content: "\e958";
   margin-left: -1em;
-  color: rgb(46, 46, 46);
+  color: rgb(252, 253, 255);
 }
-.pi-iot .path15:before {
+.pi-iot .path13:before {
   content: "\e959";
   margin-left: -1em;
   color: rgb(46, 46, 46);
 }
-.pi-iot .path16:before {
+.pi-iot .path14:before {
   content: "\e95a";
   margin-left: -1em;
   color: rgb(46, 46, 46);
 }
-.pi-kiosk-retail:before {
+.pi-iot .path15:before {
   content: "\e95b";
+  margin-left: -1em;
+  color: rgb(46, 46, 46);
 }
-.pi-lock-n-shield:before {
+.pi-iot .path16:before {
   content: "\e95c";
+  margin-left: -1em;
+  color: rgb(46, 46, 46);
 }
-.pi-machine-learning:before {
+.pi-iStock-1278437718-Converted_compact:before {
   content: "\e95d";
 }
-.pi-memory-card:before {
+.pi-kiosk-retail:before {
   content: "\e95e";
 }
-.pi-model:before {
+.pi-lock-n-shield:before {
   content: "\e95f";
 }
-.pi-model-printing:before {
+.pi-lock-n-shield-01:before {
   content: "\e960";
 }
-.pi-modules:before {
+.pi-machine-learning:before {
   content: "\e961";
 }
-.pi-motherboard:before {
+.pi-memory-card:before {
   content: "\e962";
 }
-.pi-mountain:before {
+.pi-model:before {
   content: "\e963";
 }
-.pi-plants:before {
+.pi-model-printing:before {
   content: "\e964";
 }
-.pi-plug-in-power:before {
+.pi-modules:before {
   content: "\e965";
 }
-.pi-port-com:before {
+.pi-motherboard:before {
   content: "\e966";
 }
-.pi-port-dio:before {
+.pi-mountain:before {
   content: "\e967";
 }
-.pi-port-usb:before {
+.pi-plants:before {
   content: "\e968";
 }
-.pi-power-shield:before {
+.pi-plug-in-power:before {
   content: "\e969";
 }
-.pi-power-switch:before {
+.pi-port-com:before {
   content: "\e96a";
 }
-.pi-process-flow:before {
+.pi-port-dio:before {
   content: "\e96b";
 }
-.pi-production-line:before {
+.pi-port-usb:before {
   content: "\e96c";
 }
-.pi-production-process:before {
+.pi-power-shield:before {
   content: "\e96d";
 }
-.pi-programming-language:before {
+.pi-power-switch:before {
   content: "\e96e";
 }
-.pi-protected-plug-in:before {
+.pi-process-flow:before {
   content: "\e96f";
 }
-.pi-quality-assurance:before {
+.pi-production-line:before {
   content: "\e970";
 }
-.pi-reporting:before {
+.pi-production-process:before {
   content: "\e971";
 }
-.pi-RFID-sensor:before {
+.pi-programming-language:before {
   content: "\e972";
 }
-.pi-robot:before {
+.pi-protected-plug-in:before {
   content: "\e973";
 }
-.pi-robot-arm:before {
+.pi-quality-assurance:before {
   content: "\e974";
 }
-.pi-robot-assistant:before {
+.pi-reporting:before {
   content: "\e975";
 }
-.pi-scalability:before {
+.pi-RFID-sensor:before {
   content: "\e976";
 }
-.pi-schedule:before {
+.pi-robot:before {
   content: "\e977";
 }
-.pi-sd-card:before {
+.pi-robot-arm:before {
   content: "\e978";
 }
-.pi-security:before {
+.pi-robot-assistant:before {
   content: "\e979";
 }
-.pi-shrink:before {
+.pi-scalability:before {
   content: "\e97a";
 }
-.pi-smart-car:before {
+.pi-schedule:before {
   content: "\e97b";
 }
-.pi-smart-communication .path1:before {
+.pi-sd-card:before {
   content: "\e97c";
+}
+.pi-security:before {
+  content: "\e97d";
+}
+.pi-shrink:before {
+  content: "\e97e";
+}
+.pi-SIA-icon .path1:before {
+  content: "\e97f";
+  color: rgb(255, 255, 255);
+}
+.pi-SIA-icon .path2:before {
+  content: "\e980";
+  margin-left: -1em;
+  color: rgb(255, 255, 255);
+}
+.pi-SIA-icon .path3:before {
+  content: "\e981";
+  margin-left: -1em;
+  color: rgb(255, 255, 255);
+}
+.pi-SIA-icon .path4:before {
+  content: "\e982";
+  margin-left: -1em;
+  color: rgb(0, 32, 92);
+}
+.pi-SIA-icon .path5:before {
+  content: "\e983";
+  margin-left: -1em;
+  color: rgb(0, 32, 92);
+}
+.pi-SIA-icon .path6:before {
+  content: "\e984";
+  margin-left: -1em;
+  color: rgb(0, 32, 92);
+}
+.pi-SIA-icon .path7:before {
+  content: "\e985";
+  margin-left: -1em;
+  color: rgb(0, 32, 92);
+}
+.pi-SIA-icon .path8:before {
+  content: "\e986";
+  margin-left: -1em;
+  color: rgb(0, 32, 92);
+}
+.pi-SIA-icon .path9:before {
+  content: "\e987";
+  margin-left: -1em;
+  color: rgb(0, 32, 92);
+}
+.pi-SIA-icon .path10:before {
+  content: "\e988";
+  margin-left: -1em;
+  color: rgb(0, 32, 92);
+}
+.pi-SIA-icon .path11:before {
+  content: "\e989";
+  margin-left: -1em;
+  color: rgb(0, 32, 92);
+}
+.pi-SIA-icon .path12:before {
+  content: "\e98a";
+  margin-left: -1em;
+  color: rgb(0, 32, 92);
+}
+.pi-SIA-icon .path13:before {
+  content: "\e98b";
+  margin-left: -1em;
+  color: rgb(0, 32, 92);
+}
+.pi-SIA-icon .path14:before {
+  content: "\e98c";
+  margin-left: -1em;
+  color: rgb(0, 32, 92);
+}
+.pi-SIA-icon .path15:before {
+  content: "\e98d";
+  margin-left: -1em;
+  color: rgb(0, 32, 92);
+}
+.pi-SIA-icon .path16:before {
+  content: "\e98e";
+  margin-left: -1em;
+  color: rgb(0, 32, 92);
+}
+.pi-SIA-icon .path17:before {
+  content: "\e98f";
+  margin-left: -1em;
+  color: rgb(0, 32, 92);
+}
+.pi-SIA-icon .path18:before {
+  content: "\e990";
+  margin-left: -1em;
+  color: rgb(0, 32, 92);
+}
+.pi-SIA-icon .path19:before {
+  content: "\e991";
+  margin-left: -1em;
+  color: rgb(0, 32, 92);
+}
+.pi-SIA-icon .path20:before {
+  content: "\e992";
+  margin-left: -1em;
+  color: rgb(0, 32, 92);
+}
+.pi-SIA-icon .path21:before {
+  content: "\e993";
+  margin-left: -1em;
+  color: rgb(0, 32, 92);
+}
+.pi-SIA-icon .path22:before {
+  content: "\e994";
+  margin-left: -1em;
+  color: rgb(35, 31, 32);
+}
+.pi-SIA-icon .path23:before {
+  content: "\e995";
+  margin-left: -1em;
+  color: rgb(35, 31, 32);
+}
+.pi-SIA-icon .path24:before {
+  content: "\e996";
+  margin-left: -1em;
+  color: rgb(35, 31, 32);
+}
+.pi-SIA-icon .path25:before {
+  content: "\e997";
+  margin-left: -1em;
+  color: rgb(35, 31, 32);
+}
+.pi-SIA-icon .path26:before {
+  content: "\e998";
+  margin-left: -1em;
+  color: rgb(35, 31, 32);
+}
+.pi-SIA-icon .path27:before {
+  content: "\e999";
+  margin-left: -1em;
+  color: rgb(35, 31, 32);
+}
+.pi-SIA-icon .path28:before {
+  content: "\e99a";
+  margin-left: -1em;
+  color: rgb(35, 31, 32);
+}
+.pi-SIA-icon .path29:before {
+  content: "\e99b";
+  margin-left: -1em;
+  color: rgb(35, 31, 32);
+}
+.pi-SIA-icon .path30:before {
+  content: "\e99c";
+  margin-left: -1em;
+  color: rgb(35, 31, 32);
+}
+.pi-SIA-icon .path31:before {
+  content: "\e99d";
+  margin-left: -1em;
+  color: rgb(35, 31, 32);
+}
+.pi-SIA-icon .path32:before {
+  content: "\e99e";
+  margin-left: -1em;
+  color: rgb(35, 31, 32);
+}
+.pi-SIA-icon .path33:before {
+  content: "\e99f";
+  margin-left: -1em;
+  color: rgb(35, 31, 32);
+}
+.pi-SIA-icon .path34:before {
+  content: "\e9a0";
+  margin-left: -1em;
+  color: rgb(35, 31, 32);
+}
+.pi-SIA-icon .path35:before {
+  content: "\e9a1";
+  margin-left: -1em;
+  color: rgb(35, 31, 32);
+}
+.pi-SIA-icon .path36:before {
+  content: "\e9a2";
+  margin-left: -1em;
+  color: rgb(35, 31, 32);
+}
+.pi-SIA-icon .path37:before {
+  content: "\e9a3";
+  margin-left: -1em;
+  color: rgb(35, 31, 32);
+}
+.pi-SIA-icon .path38:before {
+  content: "\e9a4";
+  margin-left: -1em;
+  color: rgb(35, 31, 32);
+}
+.pi-SIA-icon .path39:before {
+  content: "\e9a5";
+  margin-left: -1em;
+  color: rgb(35, 31, 32);
+}
+.pi-SIA-icon .path40:before {
+  content: "\e9a6";
+  margin-left: -1em;
+  color: rgb(35, 31, 32);
+}
+.pi-SIA-icon .path41:before {
+  content: "\e9a7";
+  margin-left: -1em;
+  color: rgb(35, 31, 32);
+}
+.pi-SIA-icon .path42:before {
+  content: "\e9a8";
+  margin-left: -1em;
+  color: rgb(35, 31, 32);
+}
+.pi-SIA-icon .path43:before {
+  content: "\e9a9";
+  margin-left: -1em;
+  color: rgb(35, 31, 32);
+}
+.pi-SIA-icon .path44:before {
+  content: "\e9aa";
+  margin-left: -1em;
+  color: rgb(35, 31, 32);
+}
+.pi-SIA-icon .path45:before {
+  content: "\e9ab";
+  margin-left: -1em;
+  color: rgb(35, 31, 32);
+}
+.pi-SIA-icon .path46:before {
+  content: "\e9ac";
+  margin-left: -1em;
+  color: rgb(35, 31, 32);
+}
+.pi-SIA-icon .path47:before {
+  content: "\e9ad";
+  margin-left: -1em;
+  color: rgb(35, 31, 32);
+}
+.pi-SIA-icon .path48:before {
+  content: "\e9ae";
+  margin-left: -1em;
+  color: rgb(35, 31, 32);
+}
+.pi-SIA-icon .path49:before {
+  content: "\e9af";
+  margin-left: -1em;
+  color: rgb(1, 30, 65);
+}
+.pi-SIA-icon .path50:before {
+  content: "\e9b0";
+  margin-left: -1em;
+  color: rgb(1, 30, 65);
+}
+.pi-SIA-icon .path51:before {
+  content: "\e9b1";
+  margin-left: -1em;
+  color: rgb(1, 30, 65);
+}
+.pi-SIA-icon .path52:before {
+  content: "\e9b2";
+  margin-left: -1em;
+  color: rgb(155, 201, 169);
+}
+.pi-SIA-icon .path53:before {
+  content: "\e9b3";
+  margin-left: -1em;
+  color: rgb(0, 121, 52);
+}
+.pi-smart-car:before {
+  content: "\e9b4";
+}
+.pi-smart-communication .path1:before {
+  content: "\e9b5";
   color: rgb(46, 46, 46);
 }
 .pi-smart-communication .path2:before {
-  content: "\e97d";
+  content: "\e9b6";
   margin-left: -1em;
   color: rgb(46, 46, 46);
 }
 .pi-smart-communication .path3:before {
-  content: "\e97e";
+  content: "\e9b7";
   margin-left: -1em;
   color: rgb(46, 46, 46);
 }
 .pi-smart-communication .path4:before {
-  content: "\e97f";
+  content: "\e9b8";
   margin-left: -1em;
   color: rgb(46, 46, 46);
 }
 .pi-smart-communication .path5:before {
-  content: "\e980";
+  content: "\e9b9";
   margin-left: -1em;
   color: rgb(46, 46, 46);
 }
 .pi-smart-communication .path6:before {
-  content: "\e981";
+  content: "\e9ba";
   margin-left: -1em;
   color: rgb(46, 46, 46);
 }
 .pi-smart-communication .path7:before {
-  content: "\e982";
+  content: "\e9bb";
   margin-left: -1em;
   color: rgb(46, 46, 46);
 }
 .pi-smart-communication .path8:before {
-  content: "\e983";
+  content: "\e9bc";
   margin-left: -1em;
   color: rgb(46, 46, 46);
 }
 .pi-smart-communication .path9:before {
-  content: "\e984";
+  content: "\e9bd";
   margin-left: -1em;
   color: rgb(46, 46, 46);
 }
 .pi-smart-communication .path10:before {
-  content: "\e985";
+  content: "\e9be";
   margin-left: -1em;
   color: rgb(46, 46, 46);
 }
 .pi-smart-communication .path11:before {
-  content: "\e986";
+  content: "\e9bf";
   margin-left: -1em;
   color: rgb(46, 46, 46);
 }
 .pi-smart-communication .path12:before {
-  content: "\e987";
+  content: "\e9c0";
   margin-left: -1em;
   color: rgb(61, 68, 81);
 }
 .pi-smart-communication .path13:before {
-  content: "\e988";
+  content: "\e9c1";
   margin-left: -1em;
   color: rgb(46, 46, 46);
 }
 .pi-smart-communication .path14:before {
-  content: "\e989";
+  content: "\e9c2";
   margin-left: -1em;
   color: rgb(46, 46, 46);
 }
 .pi-smart-communication .path15:before {
-  content: "\e98a";
+  content: "\e9c3";
   margin-left: -1em;
   color: rgb(46, 46, 46);
 }
 .pi-smart-communication .path16:before {
-  content: "\e98b";
+  content: "\e9c4";
   margin-left: -1em;
   color: rgb(243, 243, 243);
 }
 .pi-smart-communication .path17:before {
-  content: "\e98c";
+  content: "\e9c5";
   margin-left: -1em;
   color: rgb(46, 46, 46);
 }
 .pi-smart-communication .path18:before {
-  content: "\e98d";
+  content: "\e9c6";
   margin-left: -1em;
   color: rgb(243, 243, 243);
 }
 .pi-smart-communication .path19:before {
-  content: "\e98e";
+  content: "\e9c7";
   margin-left: -1em;
   color: rgb(46, 46, 46);
 }
 .pi-smart-compute:before {
-  content: "\e98f";
+  content: "\e9c8";
 }
 .pi-smart-control:before {
-  content: "\e990";
+  content: "\e9c9";
 }
 .pi-smart-detection:before {
-  content: "\e991";
+  content: "\e9ca";
 }
 .pi-smart-factory:before {
-  content: "\e992";
+  content: "\e9cb";
 }
 .pi-smart-industrial:before {
-  content: "\e993";
+  content: "\e9cc";
 }
 .pi-smart-logistic .path1:before {
-  content: "\e994";
+  content: "\e9cd";
   color: rgb(46, 46, 46);
 }
 .pi-smart-logistic .path2:before {
-  content: "\e995";
+  content: "\e9ce";
   margin-left: -1em;
   color: rgb(46, 46, 46);
 }
 .pi-smart-logistic .path3:before {
-  content: "\e996";
+  content: "\e9cf";
   margin-left: -1em;
   color: rgb(46, 46, 46);
 }
 .pi-smart-logistic .path4:before {
-  content: "\e997";
+  content: "\e9d0";
   margin-left: -1em;
   color: rgb(46, 46, 46);
 }
 .pi-smart-logistic .path5:before {
-  content: "\e998";
+  content: "\e9d1";
   margin-left: -1em;
   color: rgb(46, 46, 46);
 }
 .pi-smart-logistic .path6:before {
-  content: "\e999";
+  content: "\e9d2";
   margin-left: -1em;
   color: rgb(46, 46, 46);
 }
 .pi-smart-logistic .path7:before {
-  content: "\e99a";
+  content: "\e9d3";
   margin-left: -1em;
   color: rgb(61, 68, 81);
 }
 .pi-smart-logistic .path8:before {
-  content: "\e99b";
+  content: "\e9d4";
   margin-left: -1em;
   color: rgb(46, 46, 46);
 }
 .pi-smart-logistic .path9:before {
-  content: "\e99c";
+  content: "\e9d5";
   margin-left: -1em;
   color: rgb(46, 46, 46);
 }
 .pi-smart-logistic .path10:before {
-  content: "\e99d";
+  content: "\e9d6";
   margin-left: -1em;
   color: rgb(46, 46, 46);
 }
 .pi-smart-logistic .path11:before {
-  content: "\e99e";
+  content: "\e9d7";
   margin-left: -1em;
   color: rgb(46, 46, 46);
 }
 .pi-smart-logistic .path12:before {
-  content: "\e99f";
+  content: "\e9d8";
   margin-left: -1em;
   color: rgb(46, 46, 46);
 }
 .pi-smart-logistic .path13:before {
-  content: "\e9a0";
+  content: "\e9d9";
   margin-left: -1em;
   color: rgb(46, 46, 46);
 }
 .pi-smart-logistic .path14:before {
-  content: "\e9a1";
+  content: "\e9da";
   margin-left: -1em;
   color: rgb(46, 46, 46);
 }
 .pi-social-web:before {
-  content: "\e9a2";
+  content: "\e9db";
 }
 .pi-speaker:before {
-  content: "\e9a3";
+  content: "\e9dc";
 }
 .pi-speech-regconition:before {
-  content: "\e9a4";
+  content: "\e9dd";
 }
 .pi-speed-meter:before {
-  content: "\e9a5";
+  content: "\e9de";
 }
 .pi-ssd-drive:before {
-  content: "\e9a6";
+  content: "\e9df";
 }
 .pi-surveillance:before {
-  content: "\e9a7";
+  content: "\e9e0";
 }
 .pi-system-integration .path1:before {
-  content: "\e9a8";
+  content: "\e9e1";
   color: rgb(46, 46, 46);
 }
 .pi-system-integration .path2:before {
-  content: "\e9a9";
+  content: "\e9e2";
   margin-left: -1em;
   color: rgb(46, 46, 46);
 }
 .pi-system-integration .path3:before {
-  content: "\e9aa";
+  content: "\e9e3";
   margin-left: -1em;
   color: rgb(46, 46, 46);
 }
 .pi-system-integration .path4:before {
-  content: "\e9ab";
+  content: "\e9e4";
   margin-left: -1em;
   color: rgb(255, 255, 255);
 }
 .pi-system-integration .path5:before {
-  content: "\e9ac";
+  content: "\e9e5";
   margin-left: -1em;
   color: rgb(46, 46, 46);
 }
 .pi-system-integration .path6:before {
-  content: "\e9ad";
+  content: "\e9e6";
   margin-left: -1em;
   color: rgb(46, 46, 46);
 }
 .pi-system-integration .path7:before {
-  content: "\e9ae";
+  content: "\e9e7";
   margin-left: -1em;
   color: rgb(61, 68, 81);
 }
 .pi-system-integration .path8:before {
-  content: "\e9af";
+  content: "\e9e8";
   margin-left: -1em;
   color: rgb(46, 46, 46);
 }
 .pi-system-integration .path9:before {
-  content: "\e9b0";
+  content: "\e9e9";
   margin-left: -1em;
   color: rgb(46, 46, 46);
 }
 .pi-target:before {
-  content: "\e9b1";
+  content: "\e9ea";
 }
 .pi-task-list:before {
-  content: "\e9b2";
+  content: "\e9eb";
 }
 .pi-technical-standard:before {
-  content: "\e9b3";
+  content: "\e9ec";
 }
 .pi-temperature:before {
-  content: "\e9b4";
+  content: "\e9ed";
 }
 .pi-thunder-bolt:before {
-  content: "\e9b5";
+  content: "\e9ee";
 }
 .pi-toolset:before {
-  content: "\e9b6";
+  content: "\e9ef";
 }
 .pi-touch-screen:before {
-  content: "\e9b7";
+  content: "\e9f0";
 }
 .pi-usb-drive:before {
-  content: "\e9b8";
+  content: "\e9f1";
 }
 .pi-value-chain:before {
-  content: "\e9b9";
+  content: "\e9f2";
 }
 .pi-virtual-reality:before {
-  content: "\e9ba";
+  content: "\e9f3";
 }
 .pi-virtual-reality-1:before {
-  content: "\e9bb";
+  content: "\e9f4";
 }
 .pi-wifi:before {
-  content: "\e9bc";
+  content: "\e9f5";
+}
+.pi-flexibility:before {
+  content: "\e90a";
 }
