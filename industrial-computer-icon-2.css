@@ -1,0 +1,569 @@
+@font-face {
+  font-family: 'industrial-computer-icon-2';
+  src:
+    url('fonts/industrial-computer-icon-2.ttf?h79uyy') format('truetype'),
+    url('fonts/industrial-computer-icon-2.woff?h79uyy') format('woff'),
+    url('fonts/industrial-computer-icon-2.svg?h79uyy#industrial-computer-icon-2') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+.pi-shock-vibration {
+ font-family: "industrial-computer-icon-2" !important;
+}
+.pi-shock-vibration:before {
+  content: "\e900";
+}
+.pi-tpm {
+ font-family: "industrial-computer-icon-2" !important;
+}
+.pi-tpm:before {
+  content: "\eabb";
+}
+.pi-shock-resist-2 {
+ font-family: "industrial-computer-icon-2" !important;
+}
+.pi-shock-resist-2:before {
+  content: "\ea5e";
+  color: #646464;
+}
+.pi-fiveg-1 {
+ font-family: "industrial-computer-icon-2" !important;
+}
+.pi-fiveg-1:before {
+  content: "\ea5f";
+}
+.pi-premio-full {
+ font-family: "industrial-computer-icon-2" !important;
+}
+.pi-premio-full:before {
+  content: "\ea60";
+}
+.pi-fiveg-10 .path1 {
+ font-family: "industrial-computer-icon-2" !important;
+}
+.pi-fiveg-10 .path1:before {
+  content: "\ea61";
+  color: rgb(26, 26, 26);
+}
+.pi-fiveg-10 .path2 {
+ font-family: "industrial-computer-icon-2" !important;
+}
+.pi-fiveg-10 .path2:before {
+  content: "\ea62";
+  margin-left: -0.6826171875em;
+  color: rgb(255, 255, 255);
+}
+.pi-fiveg-10 .path3 {
+ font-family: "industrial-computer-icon-2" !important;
+}
+.pi-fiveg-10 .path3:before {
+  content: "\ea63";
+  margin-left: -0.6826171875em;
+  color: rgb(26, 26, 26);
+}
+.pi-fiveg-10 .path4 {
+ font-family: "industrial-computer-icon-2" !important;
+}
+.pi-fiveg-10 .path4:before {
+  content: "\ea64";
+  margin-left: -0.6826171875em;
+  color: rgb(26, 26, 26);
+}
+.pi-fiveg-10 .path5 {
+ font-family: "industrial-computer-icon-2" !important;
+}
+.pi-fiveg-10 .path5:before {
+  content: "\ea65";
+  margin-left: -0.6826171875em;
+  color: rgb(26, 26, 26);
+}
+.pi-fiveg-10 .path6 {
+ font-family: "industrial-computer-icon-2" !important;
+}
+.pi-fiveg-10 .path6:before {
+  content: "\ea66";
+  margin-left: -0.6826171875em;
+  color: rgb(26, 26, 26);
+}
+.pi-fiveg-10 .path7 {
+ font-family: "industrial-computer-icon-2" !important;
+}
+.pi-fiveg-10 .path7:before {
+  content: "\ea67";
+  margin-left: -0.6826171875em;
+  color: rgb(26, 26, 26);
+}
+.pi-fiveg-10 .path8 {
+ font-family: "industrial-computer-icon-2" !important;
+}
+.pi-fiveg-10 .path8:before {
+  content: "\ea68";
+  margin-left: -0.6826171875em;
+  color: rgb(26, 26, 26);
+}
+.pi-fiveg-10 .path9 {
+ font-family: "industrial-computer-icon-2" !important;
+}
+.pi-fiveg-10 .path9:before {
+  content: "\ea69";
+  margin-left: -0.6826171875em;
+  color: rgb(26, 26, 26);
+}
+.pi-fiveg-10 .path10 {
+ font-family: "industrial-computer-icon-2" !important;
+}
+.pi-fiveg-10 .path10:before {
+  content: "\ea6a";
+  margin-left: -0.6826171875em;
+  color: rgb(255, 255, 255);
+}
+.pi-fiveg-10 .path11 {
+ font-family: "industrial-computer-icon-2" !important;
+}
+.pi-fiveg-10 .path11:before {
+  content: "\ea6b";
+  margin-left: -0.6826171875em;
+  color: rgb(255, 255, 255);
+}
+.pi-fiveg-2 .path1 {
+ font-family: "industrial-computer-icon-2" !important;
+}
+.pi-fiveg-2 .path1:before {
+  content: "\ea6c";
+  color: rgb(26, 26, 26);
+}
+.pi-fiveg-2 .path2 {
+ font-family: "industrial-computer-icon-2" !important;
+}
+.pi-fiveg-2 .path2:before {
+  content: "\ea6d";
+  margin-left: -0.7451171875em;
+  color: rgb(255, 255, 255);
+}
+.pi-fiveg-2 .path3 {
+ font-family: "industrial-computer-icon-2" !important;
+}
+.pi-fiveg-2 .path3:before {
+  content: "\ea6e";
+  margin-left: -0.7451171875em;
+  color: rgb(26, 26, 26);
+}
+.pi-fiveg-2 .path4 {
+ font-family: "industrial-computer-icon-2" !important;
+}
+.pi-fiveg-2 .path4:before {
+  content: "\ea6f";
+  margin-left: -0.7451171875em;
+  color: rgb(26, 26, 26);
+}
+.pi-fiveg-3 .path1 {
+ font-family: "industrial-computer-icon-2" !important;
+}
+.pi-fiveg-3 .path1:before {
+  content: "\ea70";
+  color: rgb(26, 26, 26);
+}
+.pi-fiveg-3 .path2 {
+ font-family: "industrial-computer-icon-2" !important;
+}
+.pi-fiveg-3 .path2:before {
+  content: "\ea7d";
+  margin-left: -1em;
+  color: rgb(255, 255, 255);
+}
+.pi-fiveg-3 .path3 {
+ font-family: "industrial-computer-icon-2" !important;
+}
+.pi-fiveg-3 .path3:before {
+  content: "\ea7e";
+  margin-left: -1em;
+  color: rgb(255, 255, 255);
+}
+.pi-fiveg-3 .path4 {
+ font-family: "industrial-computer-icon-2" !important;
+}
+.pi-fiveg-3 .path4:before {
+  content: "\ea7f";
+  margin-left: -1em;
+  color: rgb(255, 255, 255);
+}
+.pi-fiveg-3 .path5 {
+ font-family: "industrial-computer-icon-2" !important;
+}
+.pi-fiveg-3 .path5:before {
+  content: "\ea80";
+  margin-left: -1em;
+  color: rgb(255, 255, 255);
+}
+.pi-fiveg-3 .path6 {
+ font-family: "industrial-computer-icon-2" !important;
+}
+.pi-fiveg-3 .path6:before {
+  content: "\ea81";
+  margin-left: -1em;
+  color: rgb(255, 255, 255);
+}
+.pi-fiveg-3 .path7 {
+ font-family: "industrial-computer-icon-2" !important;
+}
+.pi-fiveg-3 .path7:before {
+  content: "\ea82";
+  margin-left: -1em;
+  color: rgb(255, 255, 255);
+}
+.pi-fiveg-3 .path8 {
+ font-family: "industrial-computer-icon-2" !important;
+}
+.pi-fiveg-3 .path8:before {
+  content: "\ea83";
+  margin-left: -1em;
+  color: rgb(255, 255, 255);
+}
+.pi-fiveg-4 {
+ font-family: "industrial-computer-icon-2" !important;
+}
+.pi-fiveg-4:before {
+  content: "\ea84";
+}
+.pi-fiveg-5 {
+ font-family: "industrial-computer-icon-2" !important;
+}
+.pi-fiveg-5:before {
+  content: "\ea85";
+}
+.pi-fiveg-6 {
+ font-family: "industrial-computer-icon-2" !important;
+}
+.pi-fiveg-6:before {
+  content: "\ea86";
+}
+.pi-fiveg-7 {
+ font-family: "industrial-computer-icon-2" !important;
+}
+.pi-fiveg-7:before {
+  content: "\ea87";
+}
+.pi-fiveg-8 .path1 {
+ font-family: "industrial-computer-icon-2" !important;
+}
+.pi-fiveg-8 .path1:before {
+  content: "\ea88";
+  color: rgb(26, 26, 26);
+}
+.pi-fiveg-8 .path2 {
+ font-family: "industrial-computer-icon-2" !important;
+}
+.pi-fiveg-8 .path2:before {
+  content: "\ea89";
+  margin-left: -2.341796875em;
+  color: rgb(26, 26, 26);
+}
+.pi-fiveg-8 .path3 {
+ font-family: "industrial-computer-icon-2" !important;
+}
+.pi-fiveg-8 .path3:before {
+  content: "\ea8a";
+  margin-left: -2.341796875em;
+  color: rgb(26, 26, 26);
+}
+.pi-fiveg-8 .path4 {
+ font-family: "industrial-computer-icon-2" !important;
+}
+.pi-fiveg-8 .path4:before {
+  content: "\ea9a";
+  margin-left: -2.341796875em;
+  color: rgb(26, 26, 26);
+}
+.pi-fiveg-8 .path5 {
+ font-family: "industrial-computer-icon-2" !important;
+}
+.pi-fiveg-8 .path5:before {
+  content: "\ea9b";
+  margin-left: -2.341796875em;
+  color: rgb(255, 255, 255);
+}
+.pi-fiveg-8 .path6 {
+ font-family: "industrial-computer-icon-2" !important;
+}
+.pi-fiveg-8 .path6:before {
+  content: "\ea9c";
+  margin-left: -2.341796875em;
+  color: rgb(255, 255, 255);
+}
+.pi-fiveg-9 {
+ font-family: "industrial-computer-icon-2" !important;
+}
+.pi-fiveg-9:before {
+  content: "\ea9d";
+}
+.pi-sim-card .path1 {
+ font-family: "industrial-computer-icon-2" !important;
+}
+.pi-sim-card .path1:before {
+  content: "\ea53";
+  color: rgb(26, 26, 26);
+}
+.pi-sim-card .path2 {
+ font-family: "industrial-computer-icon-2" !important;
+}
+.pi-sim-card .path2:before {
+  content: "\ea54";
+  margin-left: -0.6826171875em;
+  color: rgb(255, 255, 255);
+}
+.pi-sim-card .path3 {
+ font-family: "industrial-computer-icon-2" !important;
+}
+.pi-sim-card .path3:before {
+  content: "\ea55";
+  margin-left: -0.6826171875em;
+  color: rgb(26, 26, 26);
+}
+.pi-sim-card .path4 {
+ font-family: "industrial-computer-icon-2" !important;
+}
+.pi-sim-card .path4:before {
+  content: "\ea56";
+  margin-left: -0.6826171875em;
+  color: rgb(26, 26, 26);
+}
+.pi-sim-card .path5 {
+ font-family: "industrial-computer-icon-2" !important;
+}
+.pi-sim-card .path5:before {
+  content: "\ea57";
+  margin-left: -0.6826171875em;
+  color: rgb(26, 26, 26);
+}
+.pi-sim-card .path6 {
+ font-family: "industrial-computer-icon-2" !important;
+}
+.pi-sim-card .path6:before {
+  content: "\ea58";
+  margin-left: -0.6826171875em;
+  color: rgb(26, 26, 26);
+}
+.pi-sim-card .path7 {
+ font-family: "industrial-computer-icon-2" !important;
+}
+.pi-sim-card .path7:before {
+  content: "\ea59";
+  margin-left: -0.6826171875em;
+  color: rgb(26, 26, 26);
+}
+.pi-sim-card .path8 {
+ font-family: "industrial-computer-icon-2" !important;
+}
+.pi-sim-card .path8:before {
+  content: "\ea5a";
+  margin-left: -0.6826171875em;
+  color: rgb(26, 26, 26);
+}
+.pi-sim-card .path9 {
+ font-family: "industrial-computer-icon-2" !important;
+}
+.pi-sim-card .path9:before {
+  content: "\ea5b";
+  margin-left: -0.6826171875em;
+  color: rgb(26, 26, 26);
+}
+.pi-fanless {
+ font-family: "industrial-computer-icon-2" !important;
+}
+.pi-fanless:before {
+  content: "\ea5c";
+}
+.pi-electricshock-prevent {
+ font-family: "industrial-computer-icon-2" !important;
+}
+.pi-electricshock-prevent:before {
+  content: "\ea8b";
+  color: #646464;
+}
+.pi-shock-prevent {
+ font-family: "industrial-computer-icon-2" !important;
+}
+.pi-shock-prevent:before {
+  content: "\ea8c";
+  color: #646464;
+}
+.pi-mud-resist {
+ font-family: "industrial-computer-icon-2" !important;
+}
+.pi-mud-resist:before {
+  content: "\ea8d";
+  color: #646464;
+}
+.pi-water-resist {
+ font-family: "industrial-computer-icon-2" !important;
+}
+.pi-water-resist:before {
+  content: "\ea8e";
+  color: #646464;
+}
+.pi-temperature-resist {
+ font-family: "industrial-computer-icon-2" !important;
+}
+.pi-temperature-resist:before {
+  content: "\ea8f";
+  color: #646464;
+}
+.pi-rain-resist {
+ font-family: "industrial-computer-icon-2" !important;
+}
+.pi-rain-resist:before {
+  content: "\ea90";
+  color: #646464;
+}
+.pi-uv-resist {
+ font-family: "industrial-computer-icon-2" !important;
+}
+.pi-uv-resist:before {
+  content: "\ea91";
+  color: #646464;
+}
+.pi-outdoor {
+ font-family: "industrial-computer-icon-2" !important;
+}
+.pi-outdoor:before {
+  content: "\ea92";
+  color: #646464;
+}
+.pi-waterdrop-resist {
+ font-family: "industrial-computer-icon-2" !important;
+}
+.pi-waterdrop-resist:before {
+  content: "\ea93";
+  color: #646464;
+}
+.pi-shield-prodect {
+ font-family: "industrial-computer-icon-2" !important;
+}
+.pi-shield-prodect:before {
+  content: "\ea94";
+  color: #646464;
+}
+.pi-frost-resist {
+ font-family: "industrial-computer-icon-2" !important;
+}
+.pi-frost-resist:before {
+  content: "\ea95";
+  color: #646464;
+}
+.pi-fire-resist {
+ font-family: "industrial-computer-icon-2" !important;
+}
+.pi-fire-resist:before {
+  content: "\ea96";
+  color: #646464;
+}
+.pi-shock-resist {
+ font-family: "industrial-computer-icon-2" !important;
+}
+.pi-shock-resist:before {
+  content: "\ea97";
+  color: #646464;
+}
+.pi-smoke-resist {
+ font-family: "industrial-computer-icon-2" !important;
+}
+.pi-smoke-resist:before {
+  content: "\ea98";
+  color: #646464;
+}
+.pi-wind {
+ font-family: "industrial-computer-icon-2" !important;
+}
+.pi-wind:before {
+  content: "\ea99";
+  color: #646464;
+}
+.pi-premio {
+ font-family: "industrial-computer-icon-2" !important;
+}
+.pi-premio:before {
+  content: "\ea71";
+}
+.pi-checkmark {
+ font-family: "industrial-computer-icon-2" !important;
+}
+.pi-checkmark:before {
+  content: "\ea72";
+}
+.pi-machine-automation {
+ font-family: "industrial-computer-icon-2" !important;
+}
+.pi-machine-automation:before {
+  content: "\ea73";
+}
+.pi-surveillance-camera {
+ font-family: "industrial-computer-icon-2" !important;
+}
+.pi-surveillance-camera:before {
+  content: "\ea74";
+}
+.pi-vision .path1 {
+ font-family: "industrial-computer-icon-2" !important;
+}
+.pi-vision .path1:before {
+  content: "\ea75";
+  color: rgb(0, 0, 0);
+}
+.pi-vision .path2 {
+ font-family: "industrial-computer-icon-2" !important;
+}
+.pi-vision .path2:before {
+  content: "\ea76";
+  margin-left: -1.0224609375em;
+  color: rgb(0, 0, 0);
+}
+.pi-vision .path3 {
+ font-family: "industrial-computer-icon-2" !important;
+}
+.pi-vision .path3:before {
+  content: "\ea77";
+  margin-left: -1.0224609375em;
+  color: rgb(0, 0, 0);
+}
+.pi-vision .path4 {
+ font-family: "industrial-computer-icon-2" !important;
+}
+.pi-vision .path4:before {
+  content: "\ea78";
+  margin-left: -1.0224609375em;
+  color: rgb(0, 0, 0);
+}
+.pi-vision .path5 {
+ font-family: "industrial-computer-icon-2" !important;
+}
+.pi-vision .path5:before {
+  content: "\ea79";
+  margin-left: -1.0224609375em;
+  color: rgb(0, 0, 0);
+}
+.pi-vision .path6 {
+ font-family: "industrial-computer-icon-2" !important;
+}
+.pi-vision .path6:before {
+  content: "\ea7a";
+  margin-left: -1.0224609375em;
+  color: rgb(0, 0, 0);
+}
+.pi-vision .path7 {
+ font-family: "industrial-computer-icon-2" !important;
+}
+.pi-vision .path7:before {
+  content: "\ea7b";
+  margin-left: -1.0224609375em;
+  color: rgb(255, 255, 255);
+}
+.pi-vision .path8 {
+ font-family: "industrial-computer-icon-2" !important;
+}
+.pi-vision .path8:before {
+  content: "\ea7c";
+  margin-left: -1.0224609375em;
+  color: rgb(255, 255, 255);
+}

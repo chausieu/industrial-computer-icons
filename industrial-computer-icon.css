@@ -1,5 +1,5 @@
 @font-face {
-  font-family: 'Premio';
+  font-family: 'industrial-computer-icons';
   src:
     url('fonts/industrial-computer-icons.ttf') format('truetype'),
     url('fonts/industrial-computer-icons.woff') format('woff'),
@@ -11,7 +11,7 @@
 
 [class^="pi-"], [class*=" pi-"] {
   /* use !important to prevent issues with browser extensions that change fonts */
-  font-family: 'Premio' !important;
+  font-family: 'industrial-computer-icons' !important;
   speak: never;
   font-style: normal;
   font-weight: normal;
