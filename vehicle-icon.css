@@ -1,0 +1,119 @@
+@font-face {
+  font-family: 'vehicle-icon';
+  src:
+    url('fonts/vehicle-icon.ttf?pj3kw9') format('truetype'),
+    url('fonts/vehicle-icon.woff?pj3kw9') format('woff'),
+    url('fonts/vehicle-icon.svg?pj3kw9#vehicle-icon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+i[class*="pi-vehicle"],i[class^="pi-vehicle"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'vehicle-icon' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.pi-vehicle-bicycle:before {
+  content: "\e922";
+}
+.pi-vehicle-boat:before {
+  content: "\e92f";
+}
+.pi-vehicle-boat-2:before {
+  content: "\e930";
+}
+.pi-vehicle-bus:before {
+  content: "\e97e";
+}
+.pi-vehicle-bus-1:before {
+  content: "\e97f";
+}
+.pi-vehicle-bus-2:before {
+  content: "\e980";
+}
+.pi-vehicle-bus-3:before {
+  content: "\e981";
+}
+.pi-vehicle-bus-4:before {
+  content: "\e982";
+}
+.pi-vehicle-cruise:before {
+  content: "\e9c2";
+}
+.pi-vehicle-gondola-lift:before {
+  content: "\ea08";
+}
+.pi-vehicle-helicopter:before {
+  content: "\ea13";
+}
+.pi-vehicle-jet-ski:before {
+  content: "\ea22";
+}
+.pi-vehicle-motorcycle:before {
+  content: "\ea2b";
+}
+.pi-vehicle-motorcycle-1:before {
+  content: "\ea2c";
+}
+.pi-vehicle-police-car:before {
+  content: "\ea7d";
+}
+.pi-vehicle-rowing-boat:before {
+  content: "\ea7e";
+}
+.pi-vehicle-rv:before {
+  content: "\ea7f";
+}
+.pi-vehicle-sailing-boat:before {
+  content: "\ea80";
+}
+.pi-vehicle-scooter:before {
+  content: "\ea81";
+}
+.pi-vehicle-sedan:before {
+  content: "\ea8f";
+}
+.pi-vehicle-snowmobile:before {
+  content: "\ea90";
+}
+.pi-vehicle-speedtrain:before {
+  content: "\ea91";
+}
+.pi-vehicle-speedtrain-1:before {
+  content: "\ea92";
+}
+.pi-vehicle-suv:before {
+  content: "\ea94";
+}
+.pi-vehicle-trailer:before {
+  content: "\eac1";
+}
+.pi-vehicle-train:before {
+  content: "\eac2";
+}
+.pi-vehicle-truck:before {
+  content: "\ead2";
+}
+.pi-vehicle-van:before {
+  content: "\eb0a";
+}
+.pi-vehicle-airplane:before {
+  content: "\eb17";
+}
+.pi-vehicle-airplane-1:before {
+  content: "\eb18";
+}
+.pi-vehicle-airplane-2:before {
+  content: "\eb19";
+}
